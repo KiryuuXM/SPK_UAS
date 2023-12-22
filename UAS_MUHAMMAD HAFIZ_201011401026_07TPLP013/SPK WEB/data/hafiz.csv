@@ -1,0 +1,11 @@
+"id","model","ram","storage","processor","screen_size","price","battery_capacity"
+1,Samsung Galaxy S23 5G,8 GB,256 GB,Snapdragon 8 Gen 2,6.1 inch,13.999.000,3900 mAh
+2,Samsung Galaxy S23+ 5G,8 GB,512 GB,Snapdragon 8 Gen 2,6.6 inch,15.000.000,4700 mAh
+3,Samsung Galaxy S23 Ultra 5G,12 GB,512 GB,Snapdragon 8 Gen 2,6.8 inch,25.999.000,5000 mAh
+4,Samsung Galaxy S22 5G,8 GB,256 GB,Snapdragon 8 Gen 1,6.1 inch,11.200.000,3700 mAh
+5,Samsung Galaxy S22 Plus 5G,8 GB,256 GB,Snapdragon 8 Gen 1,6.6 inch,13.499.000,4500 mAh
+6,Samsung Galaxy S22 Ultra 5G,12 GB,256 GB,Snapdragon 8 Gen 1,6.6 inch,14.500.000,5000 mAh
+7,Samsung Galaxy S21 FE 5G,8 GB,256 GB,Exynos 2100,6.4 inch,6.700.000,4500 mAh
+8,Samsung Galaxy S21 5G,8 GB,256 GB,Exynos 2100,6.2 inch,12.000.000,4000 mAh
+9,Samsung Galaxy S21+ 5G,8 GB,256 GB,Exynos 2100,6.7 inch,14.300.000,4800 mAh
+10,Samsung Galaxy S21 Ultra 5G,16 GB,512 GB,Exynos 2100,6.8 inch,19.500.000,5000 mAh
